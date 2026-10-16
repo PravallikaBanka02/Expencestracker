@@ -1,0 +1,112 @@
+[
+  {
+    "id": "exp_1792126557673_lojnw9",
+    "amount": 750,
+    "category": "Other",
+    "otherCategoryName": "Electricity Bill",
+    "date": "2026-10-16",
+    "description": "Home utilities power bill",
+    "paymentMethod": "UPI",
+    "createdAt": "2026-10-16T04:55:57.673Z"
+  },
+  {
+    "id": "exp_1792126448495_1",
+    "amount": 450,
+    "category": "Food",
+    "otherCategoryName": "",
+    "date": "2026-10-16",
+    "description": "Breakfast & coffee with team",
+    "paymentMethod": "UPI",
+    "createdAt": "2026-10-16T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_2",
+    "amount": 1200,
+    "category": "Travelling",
+    "otherCategoryName": "",
+    "date": "2026-10-16",
+    "description": "Fuel for weekly commute",
+    "paymentMethod": "Card",
+    "createdAt": "2026-10-16T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_3",
+    "amount": 850,
+    "category": "Medical",
+    "otherCategoryName": "",
+    "date": "2026-10-15",
+    "description": "Prescription medicines & vitamins",
+    "paymentMethod": "UPI",
+    "createdAt": "2026-10-15T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_4",
+    "amount": 2400,
+    "category": "Cloths",
+    "otherCategoryName": "",
+    "date": "2026-10-13",
+    "description": "Festival ethnic wear & accessories",
+    "paymentMethod": "Card",
+    "createdAt": "2026-10-13T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_5",
+    "amount": 1500,
+    "category": "Enjoyment",
+    "otherCategoryName": "",
+    "date": "2026-10-11",
+    "description": "Weekend cinema and dinner",
+    "paymentMethod": "Cash",
+    "createdAt": "2026-10-11T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_6",
+    "amount": 5000,
+    "category": "Fees",
+    "otherCategoryName": "",
+    "date": "2026-10-08",
+    "description": "Semester certification course fee",
+    "paymentMethod": "Bank Transfer",
+    "createdAt": "2026-10-08T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_7",
+    "amount": 1250,
+    "category": "Other",
+    "otherCategoryName": "Groceries",
+    "date": "2026-10-14",
+    "description": "Monthly pantry & dairy essentials",
+    "paymentMethod": "UPI",
+    "createdAt": "2026-10-14T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_8",
+    "amount": 650,
+    "category": "Food",
+    "otherCategoryName": "",
+    "date": "2026-10-06",
+    "description": "Dinner delivery with friends",
+    "paymentMethod": "UPI",
+    "createdAt": "2026-10-06T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_9",
+    "amount": 320,
+    "category": "Travelling",
+    "otherCategoryName": "",
+    "date": "2026-10-04",
+    "description": "Metro pass recharge",
+    "paymentMethod": "UPI",
+    "createdAt": "2026-10-04T04:54:08.495Z"
+  },
+  {
+    "id": "exp_1792126448495_10",
+    "amount": 1999,
+    "category": "Other",
+    "otherCategoryName": "Gym Membership",
+    "date": "2026-09-28",
+    "description": "Quarterly fitness center renewal",
+    "paymentMethod": "Card",
+    "createdAt": "2026-09-28T04:54:08.495Z"
+  }
+]
